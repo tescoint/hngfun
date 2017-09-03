@@ -1038,5 +1038,5 @@
 >>>>>>> a7c05d04b44f915b454311ed92c07bff73a294dc
 (251)Olunloye Akinkunmi, (slack: @roqak, github: @roqak)
 (252) Ugwueze Victor Chigozie, (slack: @gozman, github: @Victor-Ugwueze)
-(253) Salako Teslim Akolade, slack: tessal, github: tescoint
+(253) Salako Teslim Akolade, tessal, tescoint
 >>>>>>> 37de50296e039029447198f4976b4ce880c3a636
